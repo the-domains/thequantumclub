@@ -1,0 +1,23 @@
+name: TheQuantumClub
+favicon: null
+layout_spectrum: 0.8466649760957807
+typography_spectrum: 0.3585223655682057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3948858866933733
+  lightness: 0.6263027433305979
+  saturation: 0.09870419069193304
+  rhythmicContrast: 0.561724582221359
+purpose: []
